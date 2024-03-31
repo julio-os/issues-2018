@@ -1,1 +1,1 @@
-Currently it is just an issue tracker for [julio.com](https://julio.com).
+My issues tracker for [julio.com](https://julio.com) in 2018 (Magento 2).
